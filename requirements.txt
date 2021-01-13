@@ -1,0 +1,19 @@
+-e .
+
+beautifulsoup4==4.8.2
+pandas==1.0.3
+selenium==3.141.0
+tqdm==4.43.0
+stop-words==2018.7.23
+nltk==3.5
+segtok==1.5.9
+pymorphy2[fast]==0.8
+pymystem3==0.2.0
+scipy
+matplotlib
+plotly==4.6.0
+cufflinks==0.17.3
+psutil==5.7.0
+gensim==3.8.2
+compress-fasttext[full]==0.0.6
+seaborn
